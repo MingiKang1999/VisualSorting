@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Visual_Sorting_Test\Visual_Sorting_Test\bin\Debug\Visual_Sorting_Test.exe.config
+C:\Users\user\Desktop\Visual_Sorting_Test\Visual_Sorting_Test\bin\Debug\Visual_Sorting_Test.exe
+C:\Users\user\Desktop\Visual_Sorting_Test\Visual_Sorting_Test\bin\Debug\Visual_Sorting_Test.pdb
+C:\Users\user\Desktop\Visual_Sorting_Test\Visual_Sorting_Test\obj\Debug\Visual_Sorting_Test.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Visual_Sorting_Test\Visual_Sorting_Test\obj\Debug\Visual_Sorting_Test.sortingForm.resources
+C:\Users\user\Desktop\Visual_Sorting_Test\Visual_Sorting_Test\obj\Debug\Visual_Sorting_Test.Properties.Resources.resources
+C:\Users\user\Desktop\Visual_Sorting_Test\Visual_Sorting_Test\obj\Debug\Visual_Sorting_Test.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Visual_Sorting_Test\Visual_Sorting_Test\obj\Debug\Visual_Sorting_Test.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Visual_Sorting_Test\Visual_Sorting_Test\obj\Debug\Visual_Sorting_Test.exe
+C:\Users\user\Desktop\Visual_Sorting_Test\Visual_Sorting_Test\obj\Debug\Visual_Sorting_Test.pdb
